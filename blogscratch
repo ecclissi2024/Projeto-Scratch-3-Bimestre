@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Projetos do Scratch</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1, h2 { color: #333; }
+        .project { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog de Projetos do Scratch</h1>
+        <p>Explore projetos incríveis feitos no Scratch!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Projetos Recentes</h2>
+            <div class="project">
+                <h3>Jogo de Plataforma</h3>
+                <p>Um jogo onde o personagem deve coletar moedas e evitar inimigos.</p>
+                <a href="link_para_o_arquivo.sb3" download>Baixar Jogo de Plataforma (.sb3)</a><br>
+                <a href="link_para_o_projeto" target="_blank">Ver no Scratch</a>
+            </div>
+            <div class="project">
+                <h3>Animador de Personagens</h3>
+                <p>Um projeto que anima um personagem ao clicar.</p>
+                <a href="link_para_o_arquivo.sb3" download>Baixar Animador de Personagens (.sb3)</a><br>
+                <a href="link_para_o_projeto" target="_blank">Ver no Scratch</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Blog de Projetos do Scratch</p>
+    </footer>
+</body>
+</html>
